@@ -1,0 +1,12 @@
+.DS_Store
+
+__pycache__/
+cache/
+
+ConstrainedHiddenMarkovModel/
+
+# Ignore datasets
+*major.txt
+*minor.txt
+
+output/
